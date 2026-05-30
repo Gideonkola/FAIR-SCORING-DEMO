@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-st.set_page_config(page_title="FAIR Scoring Tool", layout="wide")
+st.set_page_config(page_title="FAIR Scoring Tool", layout="centered")
 
 st.title("📊 FAIR Data Scoring Demo")
 st.write("This tool demonstrates how FAIR scoring works based on the rubric.")
